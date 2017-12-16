@@ -5,7 +5,7 @@ package learning.kaelsoftware.myapplication.ui;
  */
 
 public class Rimeh {
-public static String P;
+public static String P="3aychkk ramou7a";
     public static String R;
 
 }
