@@ -6,4 +6,6 @@ package learning.kaelsoftware.myapplication.ui;
 
 public class Rimeh {
 public static String P;
+    public static String R;
+
 }
