@@ -22,7 +22,6 @@ public class AccelerometerActivity extends AppCompatActivity implements SensorEv
     private View view;
     private long lastUpdate;
     private TextView textView;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         requestWindowFeature(Window.FEATURE_NO_TITLE);
