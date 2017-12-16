@@ -5,5 +5,6 @@ package learning.kaelsoftware.myapplication.ui;
  */
 
 public class Hayfa {
-    public static String test="hayfouna ya ta7founa";
+    public static String test="hayfouna ya ta7founa p";
+
 };
